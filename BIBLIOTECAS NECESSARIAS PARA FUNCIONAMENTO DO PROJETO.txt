@@ -1,0 +1,5 @@
+1º-adafruit io arduino
+2º-adafruit MQTT
+3º-arduinohttpClient 
+alem disso e nesserario incluir a urll do esp32 nas preferencias da IDE do arduino
+Copie e cole na caixa da URL Acicionais para gerenciadores de placa -> https://dl.espressif.com/dl/package_esp32_index.json
